@@ -1,0 +1,1 @@
+export const PROMOTE_USER = "PROMOTE_USER";
